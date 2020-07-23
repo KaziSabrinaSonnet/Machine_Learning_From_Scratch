@@ -12,4 +12,4 @@ K-means clustering,
 Gradient Descent, 
 Bipartite Graph Matching using the Hungarian Algorithm,
 Spectral Clustering,
-K-nearest Neighbor classifier, 
+K-nearest Neighbor classifier.
